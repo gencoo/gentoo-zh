@@ -28,6 +28,7 @@ DEPEND="
 >=dev-libs/nspr-4.9
 >=dev-libs/nss-3.13.4
 >=media-libs/fontconfig-2.10.0
+>=media-libs/taglib-1.9.1
 >=media-video/vlc-2.1.0
 media-sound/pulseaudio
 >=net-print/cups-1.3.0
